@@ -1,0 +1,7 @@
+{
+  "name": "ClassEase – The text bridge for every classroom",
+  "description": "An accessible, real-time text-based support system for students in live classrooms. Features live captions, simplified notes, visual learning aids, and an exam helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
